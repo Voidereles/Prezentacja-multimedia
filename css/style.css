@@ -575,10 +575,6 @@ video::-webkit-media-controls {
 }
 
 @media (max-width: 750px) {
-	#menu {
-		display: none;
-		visibility: hidden;
-	}
 
 	.essenceContainer {
 		grid-template-columns: 0.5fr 4fr 0.5fr;
