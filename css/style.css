@@ -574,12 +574,7 @@ video::-webkit-media-controls {
 
 }
 
-@media (max-width: 750px) {
-	#menu {
-		display: none;
-		visibility: hidden;
-	}
-
+@media (orientation: portrait) {
 	.essenceContainer {
 		grid-template-columns: 0.5fr 4fr 0.5fr;
 		grid-template-rows: 2fr 8fr 8fr 1fr;
