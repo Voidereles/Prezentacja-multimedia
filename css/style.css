@@ -255,6 +255,7 @@ button::-moz-focus-inner {
 #menu li.active a {
 	padding: 12px 0px;
 	display: block;
+	height: 20%;
 	text-align: center;
 }
 
@@ -536,6 +537,7 @@ video::-webkit-media-controls {
 	top: -10px;
 	left: 160%;
 	line-height: 39px;
+	font-size: 16px;
 }
 
 .tooltiptext::after {
